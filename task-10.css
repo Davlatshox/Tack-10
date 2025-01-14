@@ -1,0 +1,36 @@
+.web{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+}
+.task{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+}
+.Task{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    transform: rotate(90deg);
+}
+.wip{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    transform: rotate(-108deg);
+}
+.werb{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+}
+.deg{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    transform: rotate(180deg);
+}
